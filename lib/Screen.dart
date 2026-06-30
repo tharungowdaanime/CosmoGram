@@ -21,7 +21,7 @@ class _CosmoGramDashboardState extends State<CosmoGramDashboard> {
   Map<String, dynamic>? _birthdayResult;
   bool _isLoadingBirthday = false;
 
-  final String _nasaApiKey = "9xXc0SC2Is2hcx6M2Ti1g7vGevaPg3jFTW70gtJR";
+  final String _nasaApiKey = "YOUR_API_KEY_GOES_HERE";
 
   @override
   void initState() {
