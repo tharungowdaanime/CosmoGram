@@ -3,7 +3,9 @@
 A application where you get beautiful images of the Universe.
 
 ---
-<img width="665" height="1412" alt="birthday_1" src="https://github.com/user-attachments/assets/940cc30f-f324-421a-b15f-ea0e8605ca1a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/940cc30f-f324-421a-b15f-ea0e8605ca1a" width="300" alt="CosmoGram Birthday Lookup Preview">
+</p>
 
 ## Try it out
 **[Try CosmoGram](https://github.com/tharungowdaanime/CosmoGram/releases/download/v1.0.0/app-armeabi-v7a-release.apk)**
