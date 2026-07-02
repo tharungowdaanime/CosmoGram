@@ -37,7 +37,7 @@ Because Android devices use different processor types, the production release ha
 ---
 ## Credits
 
-* **Frontend Framework:** Flutter & Dart (Built entirely inside a streamlined `Screen.dart` architecture for fast personal iteration).
+* **Frontend Framework:** Flutter & Dart.
 * **UI Prototyping:** **Stitch** (Used to rapidly wireframe the visual layout elements of the main dashboards).
 * **Code Companion:** **Gemini** (Utilized to convert exported Stitch XML interface templates into functional Flutter boilerplate and troubleshoot async `Future` API calls).
 * **Branding:** **Gemini Image Generation** (Gemini Nano was used to generate the app icon).
