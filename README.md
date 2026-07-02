@@ -1,10 +1,13 @@
+
 # CosmoGram 🚀
 
 A application where you get beautiful images of the Universe.
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/940cc30f-f324-421a-b15f-ea0e8605ca1a" width="300" alt="CosmoGram Birthday Lookup Preview">
+  <img src="https://github.com/user-attachments/assets/c31b31aa-6e58-4718-9d5a-d09d2e6e4c35" width="300" alt="CosmoGram Discover Feed Preview" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/940cc30f-f324-421a-b15f-ea0e8605ca1a" width="300" alt="CosmoGram Birthday Lookup Preview" />
 </p>
 
 ## Try it out
